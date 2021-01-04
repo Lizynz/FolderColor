@@ -1,0 +1,2 @@
+# FolderColor
+Customize your folders
