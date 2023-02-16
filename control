@@ -1,9 +1,11 @@
 Package: com.lizynz.foldercolor
 Name: FolderColor
-Depends: mobilesubstrate, firmware(>=9.0), org.thebigboss.libcolorpicker
+Depends: mobilesubstrate, firmware(>=13.0), org.thebigboss.libcolorpicker
 Version: 1.0
 Architecture: iphoneos-arm
 Description: Customize your folders.
-Maintainer: Lizynz
-Author: Lizynz
+Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.foldercolor
+SileoDepiction: https://lizynz.github.io/depictions/com.lizynz.foldercolor/foldercolor.json
+Maintainer: Lizynz <lizynz@ya.ru>
+Author: Lizynz <lizynz@ya.ru>
 Section: Tweaks

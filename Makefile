@@ -2,7 +2,7 @@ export ARCHS = arm64 arm64e
 DEBUG = 0
 export TARGET = iphone:clang:14.2
 
-PACKAGE_VERSION = 2.0-5
+PACKAGE_VERSION = 2.0-7
 
 export SYSROOT = $(THEOS)/sdks/iPhoneOS14.2.sdk
 
